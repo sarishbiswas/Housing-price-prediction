@@ -1,6 +1,5 @@
 # Housing-price-prediction
 Housing Price Prediction using Linear Regression. @institue Kalyani Goverment Engineering College IT Depatment
-
 Prerequisites
 Python 3.6 - The language used
 Built With
