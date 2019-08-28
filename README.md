@@ -5,6 +5,8 @@ Prerequisites
 
 Python 3.6 - The language used
 
+Dataset- kc_house_data.csv
+
 Built With
 
 MATPLOTLIB - Python ploting Module
